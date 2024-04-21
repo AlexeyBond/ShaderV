@@ -1592,7 +1592,7 @@ input_name = "uv"
 input_name = "time"
 
 [sub_resource type="VisualShaderNodeCustom" id="VisualShaderNodeCustom_swrn3"]
-default_input_values = [0, Vector3(0, 0, 0), 1, 1.0, 2, Vector3(0, 0, 0)]
+default_input_values = [1, 1.0]
 initialized = true
 script = ExtResource("23_ldokg")
 
